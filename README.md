@@ -14,3 +14,11 @@ Missing values were handled using mean imputation, and the features were standar
 <li>water_potability.csv – The dataset used for training and evaluation.
 <li>report.pdf – Detailed analysis of results and methodology.
 <li>video_presentation.mp4 – Recorded explanation of the project.
+
+## How to Run the Code
+<ol>Clone the repository.
+<ol>Install required dependencies using pip install -r requirements.txt.
+<ol>Run the Jupyter Notebook (notebook.ipynb).
+<ol>Review the output and analysis in the notebook.
+
+
