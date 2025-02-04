@@ -5,8 +5,8 @@ This project focuses on building a neural network-based classification model to 
 
 ## Dataset
 The dataset consists of multiple numerical features representing water quality indicators, with a target label Potability:
-<li>0: Non-potable water
-<li>1: Potable water
+<li>0: Non-potable water</li>
+<li>1: Potable water</li>
 Missing values were handled using mean imputation, and the features were standardized using StandardScaler to ensure uniform scaling.
 
 ## Project Files
