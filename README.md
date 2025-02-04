@@ -10,8 +10,8 @@ The dataset consists of multiple numerical features representing water quality i
 Missing values were handled using mean imputation, and the features were standardized using StandardScaler to ensure uniform scaling.
 
 ## Project Files
-<li>[Group Report.pdf](https://docs.google.com/document/d/1rA8JNFE_pe3w1ly8x7hWndCi2QxEV3k3mDNpT6LkR7E/edit?usp=sharing) – Detailed analysis of results and methodology.
-<li>[Video Presentation.mp4](https://drive.google.com/file/d/13TfS5JHND4y6fbNkmET9KhSQiq3xvXuE/view?usp=sharing) – Recorded explanation of the project.
+<li> [Group Report.pdf](https://docs.google.com/document/d/1rA8JNFE_pe3w1ly8x7hWndCi2QxEV3k3mDNpT6LkR7E/edit?usp=sharing) – Detailed analysis of results and methodology.
+<li> [Video Presentation.mp4](https://drive.google.com/file/d/13TfS5JHND4y6fbNkmET9KhSQiq3xvXuE/view?usp=sharing) – Recorded explanation of the project.
 
 ## How to Run the Code
 <li>Clone the repository.
