@@ -16,9 +16,18 @@ Missing values were handled using mean imputation, and the features were standar
 <li>video_presentation.mp4 – Recorded explanation of the project.
 
 ## How to Run the Code
-<ol>Clone the repository.
-<ol>Install required dependencies using pip install -r requirements.txt.
-<ol>Run the Jupyter Notebook (notebook.ipynb).
-<ol>Review the output and analysis in the notebook.
+<li>Clone the repository.
+<li>Install required dependencies using pip install -r requirements.txt.
+<li>Run the Jupyter Notebook (notebook.ipynb).
+<li>Review the output and analysis in the notebook.
+
+## Team Members
+<li>Adedigba Adediwura
+<li>Eliane Munezero
+<li>Festus Bigirimana</li>
+
+
+This README provides an overview of the project, More details will be found in the group report document.
+
 
 
