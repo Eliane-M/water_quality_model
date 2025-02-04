@@ -1,6 +1,6 @@
-# water_quality_model
+## Water Potability Classification Using Neural Networks
 
-Project Files
+#Project Files
 
 notebook.ipynb – The implementation of the classification model.
 
